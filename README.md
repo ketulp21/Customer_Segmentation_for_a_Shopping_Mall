@@ -2,13 +2,13 @@
 
 ## Overview
 
-This project focuses on customer segmentation for a shopping mall using unsupervised learning techniques, specifically K-means clustering. The goal is to group mall customers based on their spending behavior and income, allowing the mall to tailor its marketing strategies and tenant selection to different customer segments.
+This project focuses on customer segmentation for a shopping mall using unsupervised learning techniques, specifically K-means clustering. The goal is to group mall customers based on their spending behaviour and income, allowing the mall to tailor its marketing strategies for different customer segments.
 
 ## Key Highlights
 Data Exploration:
 
-* Conducted univariate and bivariate analysis to gain insights into customer behavior.
-* Examined the distribution of individual variables such as spending behavior and income.
+* Conducted univariate and bivariate analyses to gain insights into customer behaviour.
+* Examined the distribution of individual variables such as spending behaviour and income.
 * Explored relationships between variables to identify potential patterns.
 
 ## K-Means Clustering:
@@ -19,6 +19,6 @@ Data Exploration:
 * These segments provide actionable insights into customer characteristics, helping the mall tailor its strategies.
 
 ## Files
-* Mall_customers.csv: The dataset containing customer information, including spending behavior and income.
+* Mall_customers.csv: The dataset containing customer information, including spending behaviour and income.
 * customer_segmentation.ipynb: Jupyter Notebook containing the code and analysis for customer segmentation.
 * segmented_data.csv: The CSV file containing the final customer segmentation results.
